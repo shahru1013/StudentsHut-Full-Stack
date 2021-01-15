@@ -1,2 +1,17 @@
 # StudentsHut
-Its my practice project to the way of full stack web development!
+This project is basically a social platform of University students.
+The basic features of this projects are:
+    -Students registration along with his/her Batch.
+    -Students secure login.
+    -Publishing post with attached PDF/Picture file.
+    -Edit/Change Profile picture and Submit a post or Delete a post.
+    -See all the Batch mate profile and there posts.
+    -Message Batch mates.
+    -See all info about university and teachers.
+Frontend using :
+    -HTML
+    -CSS
+    -JAVASCRIPT
+Backend using:
+    -PHP
+    -MYSQL
