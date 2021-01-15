@@ -14,5 +14,5 @@ Frontend using :
     -JAVASCRIPT
 Backend using:
     -PHP
-    -MYSQL
+    -MYSQL\n
 Project Link:http://studentshut.epizy.com
