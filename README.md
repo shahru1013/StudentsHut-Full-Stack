@@ -9,10 +9,12 @@ The basic features of this projects are:
     -Message Batch mates.
     -See all info about university and teachers.
 Frontend using :
+   <ul>
     -HTML
     -CSS
     -JAVASCRIPT
-Backend using:
-    -PHP
+   </ul>
+Backend using:</br>
+    -PHP</br>
     -MYSQL</br>
 Project Link:http://studentshut.epizy.com
