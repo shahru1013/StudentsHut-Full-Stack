@@ -16,8 +16,8 @@ Backend using:</br>
     -PHP</br>
     -MYSQL</br>
 Project Link:http://studentshut.epizy.com
-![alt text](https://github.com/shahru1013/StudentsHut/blob/main/s1.PNG);
-![alt text](https://github.com/shahru1013/StudentsHut/blob/main/s2.PNG);
-![alt text](https://github.com/shahru1013/StudentsHut/blob/main/s3.PNG);
-![alt text](https://github.com/shahru1013/StudentsHut/blob/main/s4.PNG);
-![alt text](https://github.com/shahru1013/StudentsHut/blob/main/s5.PNG);
+![alt text](https://github.com/shahru1013/StudentsHut/blob/main/s1.PNG)
+![alt text](https://github.com/shahru1013/StudentsHut/blob/main/s2.PNG)
+![alt text](https://github.com/shahru1013/StudentsHut/blob/main/s3.PNG)
+![alt text](https://github.com/shahru1013/StudentsHut/blob/main/s4.PNG)
+![alt text](https://github.com/shahru1013/StudentsHut/blob/main/s5.PNG)
